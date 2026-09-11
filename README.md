@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
