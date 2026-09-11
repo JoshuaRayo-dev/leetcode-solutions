@@ -7,7 +7,7 @@ public:
             int xor_result = x ^ y;
             x = x >> 1;
             y = y >> 1;
-            if (xor_result & 1 == 1) ++distance;
+            if (xor_result & 1) ++distance;
         }
 
         return distance;
