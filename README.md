@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0258-add-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
