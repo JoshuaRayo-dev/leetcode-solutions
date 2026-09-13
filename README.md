@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0066-plus-one) |
 ## Linked List
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0100-same-tree) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
