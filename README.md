@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
