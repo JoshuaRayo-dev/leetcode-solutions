@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0066-plus-one) |
+| [0198-house-robber](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0198-house-robber) |
 ## Linked List
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/JoshuaRayo-dev/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
